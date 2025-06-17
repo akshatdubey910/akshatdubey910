@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**akshatdubey910/akshatdubey910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--## Hi, I'm Akshat 👋
 
-Here are some ideas to get you started:
+🏀 National-level basketball captain  
+🎓 Grade 10 student | Passionate about Computer Science  
+📚 Learning Python | Exploring Harvard's CS50  
+🔬 Currently working on research papers in Computer Science and other interdisciplinary topics  
+🧠 Curious about AI, automation, psychology, and how tech can solve real-world problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This space is where I share my coding journey, document personal projects, and explore new ideas through hands-on learning and research.
+
+🛠️ Projects and research summaries coming soon – stay tuned!
+/
