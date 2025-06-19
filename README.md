@@ -42,10 +42,12 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshatdubey910&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshatdubey910&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=akshatdubey910&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -70,7 +72,9 @@
 
 - I believe sports and logic go hand-in-hand — both require precision, mindset, and discipline  
 - I want to merge tech + social impact to change rural India  
-- I actually enjoy solving math worksheets… yeah, I’m built different 😎
+- “I don’t enjoy every task — but I love the version of me that comes out stronger after doing them.”
+
+
 
 ---
 
