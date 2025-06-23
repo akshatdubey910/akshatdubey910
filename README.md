@@ -2,7 +2,7 @@
 
 <p align="center">
 🌍 India • 💻 Aspiring Computer Scientist • 🏀 National Basketball Captain  
-🎓 Harvard Online Learner • 🧠 Research Enthusiast • 🚀 Ivy League Dreamer  
+🎓 Coding online Learner • 🧠 Research Enthusiast • 🚀 Top universities dreamer  
 </p>
 
 ---
