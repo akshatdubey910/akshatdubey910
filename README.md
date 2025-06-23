@@ -80,7 +80,7 @@
 
 ### ✨ Quote That Drives Me
 
-> "Work until your idols become your rivals — and your rivals ask to collab."
+> Work until your idols become your rivals — and your rivals ask to collab.
 
 ---
 
